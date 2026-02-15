@@ -1,0 +1,12 @@
+/* @media screen and (max-width:576px){
+    .navbar ul{
+      visibility: collapse;
+    }
+    .navbar button{
+        visibility:collapse;
+    }
+    .navbar img{ 
+        visibility: visible;
+    }
+    
+} */
